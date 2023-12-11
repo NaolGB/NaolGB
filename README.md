@@ -1,4 +1,4 @@
-Sotware Development Engineer, Data Scientist
+Data Scientist
 
 <!---
 NaolGB/NaolGB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
